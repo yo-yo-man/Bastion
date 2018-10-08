@@ -1,11 +1,11 @@
 {
   "shardCount": 1,
   "prefix": "#!",
-  "status": "online",
+  "status": "idle",
   "game": {
     "type": "Playing",
     "name": [
-      "with Ganymede"
+      "with #!help"
     ],
     "url": "",
     "interval": 60
